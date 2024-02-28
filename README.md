@@ -13,7 +13,6 @@ The dataset used for this analysis is sourced from [Kaggle](https://www.kaggle.c
 1. Install required dependencies:
    ```bash
    pip install pandas matplotlib seaborn
-```
 
 Run the analysis script:
 ```bash
