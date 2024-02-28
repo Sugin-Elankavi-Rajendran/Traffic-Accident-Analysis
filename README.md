@@ -6,7 +6,7 @@ This project aims to analyze traffic accident data to identify patterns related 
 
 ## Dataset
 
-The dataset used for this analysis is sourced from [Kaggle]([https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset]). Please download and place the dataset file (`your_dataset.csv`) in the project directory.
+The dataset used for this analysis is sourced from [Kaggle](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset). Please download and place the dataset file (`your_dataset.csv`) in the project directory.
 
 ## Setup
 
